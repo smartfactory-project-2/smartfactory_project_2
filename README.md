@@ -75,4 +75,4 @@
 ---
 ## 🏆 수상 내역
 -  PLC&HMI 팀 프로젝트 최우수상
-  <img src="https://raw.githubusercontent.com/ProjectPLC/PLC_ABC_Logistics/main/PLC&HMI_award.png" width="600">
+  <img src="https://github.com/user-attachments/assets/64197262-6acb-4089-a886-91bab5b0dc53" width="600">
