@@ -1,0 +1,26 @@
+from ultralytics import YOLO
+
+# 모델 로드
+model = YOLO("yolov8s.pt")
+
+# 학습 설정
+model.train(
+    data="data.yaml",  # 데이터 설정 파일 경로
+    epochs=200,  # 에폭 수를 늘려서 더 많은 학습 진행
+    batch=12,  # 배치 크기 늘리기
+    imgsz=640,  # 입력 이미지 크기 512로 조정 (성능 및 메모리 효율 고려)
+    workers=8,  # 데이터 로드 병렬 처리 워커 수
+    project="/content/drive/MyDrive",
+    name="bumper_model_8_s_134_12_640.pt",
+    lr0=0.0001,  # 초기 학습률
+    lrf=0.1,     # 학습률 범위
+    conf=0.4,    # Confidence threshold
+    augment=True,  # 데이터 증강 활성화
+    optimizer="Adam",  # AdamW 옵티마이저 사용
+    cos_lr=True,  # 코사인 학습률 스케줄링
+    momentum=0.6,  # 모멘텀
+    cache=True,  # 데이터 로딩 속도 개선
+)
+
+# 학습 완료 후 모델 저장
+model.save('bumper_model_8_s_134_12_640.pt')
