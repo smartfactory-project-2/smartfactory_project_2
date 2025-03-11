@@ -54,5 +54,5 @@
     - 협업 시 적극적인 커뮤니케이션 유지
 ---
 ## 🏆 수상 내역
--  PLC&HMI 팀 프로젝트 최우수상
-  <img src="https://github.com/user-attachments/assets/64197262-6acb-4089-a886-91bab5b0dc53" width="600">
+- 코딩온 KDT 과정 팀 프로젝트 우수상
+  <img src="https://github.com/user-attachments/assets/914d29e8-b9bf-4f26-8edc-f531107bc5c5" width="600">
