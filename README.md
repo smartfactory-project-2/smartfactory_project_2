@@ -12,12 +12,9 @@
 ---
 
 ## 🛠️ 주요 기술 스택
-- **Python**: VScode (학습 프로그램 작성)
-- **YOLO**: Version 8~11 (학습 라이브러리 활용)
-- **프로그래밍 언어**: Ladder Logic, FBD
-- **통신 방식**: Modbus, RS-232C/RS-485, Ethernet  
-  → PLC-HMI 간 **Modbus/TCP 통신을 활용하여 실시간 데이터 송수신**
-- **데이터 처리**: 실시간 센서 데이터 모니터링 및 저장  
+- **사용 언어**: Python(VScode 기반 학습 프로그램 작성)
+- **프레임워크**: YOLO ver. 8 and 11(이미지 데이터 학습 알고리즘)
+- **라이브러리**: numpy(데이터 전처리), openCV(테스트 데이터 수집), Matplotlib(시각화), scikit-learn(성능 측정), PIL(이미지 불러오기)
 
 ---
 
