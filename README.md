@@ -1,9 +1,7 @@
 # 🚀 자동차 불량 이미지 데이터를 이용한 자동차 외관 하자 자동 검사 프로그램
 
-![Python](https://img.shields.io/badge/PLC-XG5000-blue)
-![AI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)
-![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-%E2%9C%94-green)
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-%E2%9C%94-orange)
+![Python](https://img.shields.io/badge/Ladder%20Logic-%E2%9C%94-green)
+![AI](https://img.shields.io/badge/Industrial%20Automation-%E2%9C%94-orange)
 
 ---
 
