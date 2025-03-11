@@ -47,4 +47,5 @@
 
 ## 🏆 수상 내역
 - 코딩온 KDT 과정 팀 프로젝트 우수상
+  
   <img src="https://github.com/user-attachments/assets/914d29e8-b9bf-4f26-8edc-f531107bc5c5" width="600">
