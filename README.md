@@ -33,8 +33,6 @@
 
 ## 📌 주요 기능
 
-
-
   <img src="https://github.com/user-attachments/assets/942058bd-109b-41e5-82b0-926f6d335d6a" width="800">
 
 ---
