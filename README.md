@@ -23,7 +23,7 @@
 
 ## 👥 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 | GitHub 프로필 |
-|------|------|----------|----------|------------|
+|------|------|----------|------------|
 | **유승태** | 팀장 | PM, 모델 학습 및 구축, 성능평가 지표 구현, 발표 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
 | **김다운** | 데이터 관리, 모델 구축 | 데이터 수집(다운로드, feature 선정), 모델 학습 및 구축 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
 | **한용찬** | 모델 및 서비스 시스템 구축 | 데이터 입/출력 구현, 모델 학습 및 구축, openAI 구현 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
