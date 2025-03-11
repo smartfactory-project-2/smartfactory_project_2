@@ -22,10 +22,10 @@
 ## 👥 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 | 주요 기술 | GitHub 프로필 |
 |------|------|----------|----------|------------|
-| **김다운** | 팀장 | 일정 관리, PLC 회로 설계 및 프로그래밍 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
-| **유승태** | 팀원 | 제어 회로 설계 및 프로그램 작성 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
-| **이경준** | 팀원 | HMI 화면 설계 및 이벤트 처리 로직 구현 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
-| **이혜린** | 팀원 | HMI 보조 작업 및 발표 자료 제작 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00) |
+| **유승태** | 팀장 | 일정 관리, PLC 회로 설계 및 프로그래밍 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
+| **김다운** | 팀원 | 제어 회로 설계 및 프로그램 작성 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
+| **한용찬** | 팀원 | HMI 화면 설계 및 이벤트 처리 로직 구현 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
+| **신예지** | 팀원 | HMI 보조 작업 및 발표 자료 제작 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00) |
 ---
 
 ## 📚 개발 일정
@@ -41,7 +41,7 @@
 ---
 
 ## 🔧 개발 플로우 차트
-  <img src="https://github.com/user-attachments/assets/405d9218-dc39-42dd-9fe8-08849c901ca7" width="600">
+  <img src="https://github.com/user-attachments/assets/405d9218-dc39-42dd-9fe8-08849c901ca7" width="800">
   
 ---
 
