@@ -6,6 +6,7 @@
 - 프로젝트 목표
   - ai허브에서 제공하는 **자동차 불량 이미지를** 기반으로 **AI 모델을 학습시켜** 입력된 이미지의 **차량의 하자 여부를 판별**하는 모델 제작
   - 모델을 구축 후 **웹캠으로 실제 자동차 촬영하여 하자를  판별**하는 시스템을 구축
+  - AI허브: https://aihub.or.kr/aihubdata/data/dwld.do?currMenu=115&topMenu=100
 - 주제 선정 이유
   - 센서(웹캠)를 통하여 이미지를 입력받아 인공지능에 접목시켜 분류하는 기술은 스마트 팩토리 구현에 중요한 요소임
   - 자동차는 대한민국을 대표하는 산업 중 하나로 그 중 **검사공정에서 유용하게 사용 가능**
@@ -22,10 +23,10 @@
 ## 👥 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 | 주요 기술 | GitHub 프로필 |
 |------|------|----------|----------|------------|
-| **유승태** | 팀장 | 일정 관리, PLC 회로 설계 및 프로그래밍 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
-| **김다운** | 팀원 | 제어 회로 설계 및 프로그램 작성 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
-| **한용찬** | 팀원 | HMI 화면 설계 및 이벤트 처리 로직 구현 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
-| **신예지** | 팀원 | HMI 보조 작업 및 발표 자료 제작 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00) |
+| **유승태** | 팀장 | PM, 모델 학습 및 구축, 성능평가 지표 구현, 발표 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
+| **김다운** | 데이터 관리, 모델 구축 | 데이터 수집(다운로드, feature 선정), 모델 학습 및 구축 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
+| **한용찬** | 모델 및 서비스 시스템 구축 | 데이터 입/출력 구현, 모델 학습 및 구축, openAI 구현 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
+| **신예지** | 선행연구, 데이터 전처리, 모델 구축 | 선행연구, 데이터 전처리(json → csv) , 모델 학습 및 구축 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00) |
 ---
 
 ## 📌 주요 기능
